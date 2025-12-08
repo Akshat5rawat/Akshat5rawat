@@ -1,9 +1,8 @@
-# Hey, I'm AbTrax! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Akshat! Nice to Meet You!
 
 ###
 
 <div align="center">
-  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
 </div>
 
 ###
