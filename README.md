@@ -1,5 +1,5 @@
 <div align="center">
-  #<img src="./unnamed.jpg" width="150" height="150" style="border-radius: 50%;" alt="Akshat Rawat's Profile Picture">
+  <img src="./unnamed.jpg" width="150" height="150" style="border-radius: 50%;" alt="Akshat Rawat's Profile Picture">
 
   <h1 align="center">Hi there, I'm Akshat Rawat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
