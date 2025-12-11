@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akshat5rawat&theme=radical&hide_border=true" alt="Streak Stats" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshat5rawat&theme=transparent)](https://git.io/streak-stats)
 </div>
 
 ---
