@@ -61,7 +61,6 @@
 </div>
 
 ---
-
 <div align="center">
   <p>Thanks for visiting my profile!</p>
   <img src="https://komarev.com/ghpvc/?username=Akshat5rawat&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
