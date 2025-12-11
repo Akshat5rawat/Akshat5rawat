@@ -5,7 +5,7 @@
   
   <p align="center">
     <a href="https://github.com/Akshat5rawat">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="typing" />
     </a>
   </p>
   
@@ -52,12 +52,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Readme Stats (vercel) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Akshat5rawat&show_icons=true&theme=radical&hide_border=true" height="160" alt="Akshat's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat5rawat&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshat5rawat&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshat5rawat&theme=transparent)](https://git.io/streak-stats)
+  <!-- Replaced unstable heroku streak badge with a stable trophy badge -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshat5rawat&theme=radical" alt="GitHub Trophies" />
 </div>
 
 ---
